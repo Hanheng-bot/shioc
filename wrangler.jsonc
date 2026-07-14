@@ -1,5 +1,5 @@
 {
-  "name": "oc",
+  "name": "shioc",
   "compatibility_date": "2026-07-07",
   // 入口 Worker：处理 /api/* 数据同步，其余路径回落到静态资源
   "main": "worker/index.js",
